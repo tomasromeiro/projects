@@ -13,7 +13,7 @@ Reports and code are named and numbered as per the list below.
    - **Crank-Nicolson Technique**
    - **Prices Vanilla European / American Options**
 
-2. Numerical simulation of the two-dimensional heat equation (Python) - the primary aim of this assignment is to determine the time at which the temperature at the center of a 2D reaches a given number. A specific initial/boundary condition setup.
+2. Numerical simulation of the two-dimensional heat equation (Python) - the primary aim of this assignment is to determine the time at which the temperature at the center of a 2D reaches a given number. A specific initial/boundary condition setup is used.
    This project was completed as part of the **Techniques of High-Performance Computing** course at UCL and focuses on:
    - **Numerical methods** for time-stepping (explicit vs. implicit)
    - **Code optimization**, such as vectorization or parallelization in Python
